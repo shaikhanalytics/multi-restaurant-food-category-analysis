@@ -59,3 +59,33 @@ The dashboard allows restaurant managers to make **data-driven business decision
 - **UPI** is the most used payment method (63%).  
 - **February** was the top-performing month with **4.4K items sold**.  
 - **94% orders were successfully delivered**, showing operational efficiency.
+
+🏁 Project Summary
+
+This Power BI project provides a complete end-to-end restaurant sales analysis — from importing and cleaning Excel data to building interactive dashboards.
+It demonstrates strong skills in:
+
+Data modeling
+
+Visualization design
+
+Analytical storytelling
+
+Business insight generation
+
+Ideal for showcasing Power BI and Data Analytics proficiency in a professional portfolio or resume.
+
+
+🚀 How to Use
+
+Clone or download this repository.
+
+Open the .pbix file in Power BI Desktop.
+
+Explore visuals, apply filters, and analyze Veg vs Non-Veg performance.
+
+💼 Author
+
+Tauheed Rafiq Shaikh
+📍 B.Sc. Computer Science Student | Aspiring Data Analyst
+📧 tauheed.shaikh.analytics@gmail.com
