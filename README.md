@@ -82,7 +82,7 @@ Clone or download this repository.
 
 Open the .pbix file in Power BI Desktop.
 
-Explore visuals, apply filters, and analyze Veg vs Non-Veg performance.
+Explore visuals, apply filters, and analyze performance.
 
 💼 Author
 
